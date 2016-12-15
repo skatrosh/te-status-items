@@ -8,4 +8,4 @@ Replacement Menu Bar Icons for TextExpander
 <br/><br/>
 <img src="https://github.com/skatrosh/te-status-items/blob/master/te-screens/TEStatusItemDisabled.png?raw=true" alt="alt text" width="480" height="119">
 
-Download and replace the default icons of [these](https://github.com/skatrosh/te-status-items/tree/master/status-items)whatever
+Download and replace the default icons of [these](https://github.com/skatrosh/te-status-items/tree/master/status-items)
