@@ -2,8 +2,8 @@ te-status-Items
 ===============
 Replacement Menu Bar Icons for TextExpander
 
-![After](https://github.com/skatrosh/te-status-items/blob/master/te-screens/TEStatusItemGraphite.png?raw=true)
-![After](https://github.com/skatrosh/te-status-items/blob/master/te-screens/TEStatusItemSelected.png?raw=true)
-![After](https://github.com/skatrosh/te-status-items/blob/master/te-screens/TEStatusItemDisabled.png?raw=true)
+<img src="https://github.com/skatrosh/te-status-items/blob/master/te-screens/TEStatusItemGraphite.png?raw=true" alt="alt text" width="480" height="119">
+<img src="https://github.com/skatrosh/te-status-items/blob/master/te-screens/TEStatusItemSelected.png?raw=true" alt="alt text" width="480" height="119">
+<img src="https://github.com/skatrosh/te-status-items/blob/master/te-screens/TEStatusItemDisabled.png?raw=true" alt="alt text" width="480" height="119">
 
-Download and replace the default icons of [these](https://github.com/skatrosh/te-status-items/tree/master/status-items)
+Download and replace the default icons of [these](https://github.com/skatrosh/te-status-items/tree/master/status-items)whatever
