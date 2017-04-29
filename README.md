@@ -1,5 +1,5 @@
 te-status-Items
-===============
+================
 Replacement Menu Bar Icons for TextExpander
 
 <img src="https://github.com/skatrosh/te-status-items/blob/master/te-screens/TEStatusItemGraphite.png?raw=true" alt="alt text" width="480" height="119">
